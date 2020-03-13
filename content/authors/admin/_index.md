@@ -11,7 +11,7 @@ education:
   - course: 学士，计算机科学与技术
     institution: 清华大学
     year: 2004
-email: ""
+email: "wxy@bjut.edu.cn"
 interests:
 - 物联网技术
 - 大数据挖掘算法
