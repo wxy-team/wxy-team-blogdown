@@ -29,7 +29,7 @@
 #  weight = 50
 
 [[main]]
-  name = "联系"
+  name = "联系我们"
   url = "#contact"
   weight = 60
 
