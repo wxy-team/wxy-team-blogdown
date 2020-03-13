@@ -93,7 +93,7 @@ address = {street = "平乐园100号", city = "北京市", region = "朝阳区",
 coordinates = {latitude = "39.8753", longitude = "116.4816"}
 
 # Directions for visitors to locate you.
-directions = "软件楼816房间"
+directions = "北京工业大学软件楼816房间"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -175,7 +175,7 @@ plugins_js  = []
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
-  zh = {order = ['city','region',  'street', 'postcode'], delimiters = ['', '', ',  邮编 ', '']}
+  zh = {order = ['city','region',  'street', 'postcode'], delimiters = ['', '', ',  邮编:', '']}
 
 # Configuration of publication pages.
 [publications]

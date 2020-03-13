@@ -9,33 +9,38 @@
   weight = 10
 
 [[main]]
-  name = "博客"
-  url = "#posts"
-  weight = 20
-
-[[main]]
-  name = "项目"
-  url = "#projects"
+  name = "论文"
+  url = "publication/"
   weight = 30
 
 [[main]]
-  name = "论文"
-  url = "#featured"
+  name = "项目"
+  url = "project/"
   weight = 40
+
+#[[main]]
+#  name = "讲座"
+#  url = "talk/"
+#  weight = 50
 
 #[[main]]
 #  name = "课程"
 #  url = "courses/"
-#  weight = 50
+#  weight = 55
+
+[[main]]
+  name = "博客"
+  url = "post/"
+  weight = 60
 
 [[main]]
   name = "联系我们"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"
-#    weight = 70
+#    weight = 80
