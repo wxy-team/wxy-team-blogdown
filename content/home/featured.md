@@ -67,3 +67,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}}
+查看[完整论文列表]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
