@@ -5,7 +5,7 @@ publishDate: 2020-03-21T00:51:25.627106Z
 authors: ["Xiaoyi Wang", "Hongyu Wang", "Jian He", "Sheldon X.-D. Tan", "Yici Cai", "Shengqi Yang"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Design, Automation Test in Europe Conference Exhibition (DATE), 2017*"
 ---
 
